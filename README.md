@@ -1,2 +1,2 @@
 # K_Bot
-Library BookShelf guide Robot based on MCU board
+라즈베리 파이를 이용한 도서관 서가 안내 로봇
