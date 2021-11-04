@@ -24,6 +24,8 @@
 ## 결과
 최종 로봇의 내부 
 <p align="left"> <img src='ImagesAndVideos/image.png' align="left" height="400px">
+ 
   
-[![시뮬레이션 동영상](ImagesAndVideos/youtube_icon.jfif)](https://youtu.be/czI8dnMUCmI)
+  
+* 시뮬레이션 동영상:https://youtu.be/czI8dnMUCmI
   
