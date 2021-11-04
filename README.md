@@ -22,3 +22,4 @@
 * 로봇 얼굴 UI 구현
 
 ## 결과
+<p align="left"> <img src='ImagesAndVideos/image.png' align="left" height="400px">
