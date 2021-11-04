@@ -22,7 +22,7 @@
 * 로봇 얼굴 UI 구현
 
 ## 결과
-* 시뮬레이션 동영상:[![Youtube]](https://youtu.be/czI8dnMUCmI)
+* 시뮬레이션 동영상:[Youtube](https://youtu.be/czI8dnMUCmI)
 * 최종 로봇의 내부 
 <p align="left"> <img src='ImagesAndVideos/image.png' align="left" height="400px">
  
